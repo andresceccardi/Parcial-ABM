@@ -1,7 +1,7 @@
 ## Peliculas
 ## Parcial 2022
 
->eN EL FRONT SE CONSUMEN LOS ENDPOINTS
+>EN EL FRONT SE CONSUMEN LOS ENDPOINTS
 >
 > Se pueden realizar las siguientes acciones
 
