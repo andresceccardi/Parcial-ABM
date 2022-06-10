@@ -1,7 +1,7 @@
-## Peliculas-FrontEnd
+## Peliculas
 ## Parcial 2022
 
->Aca estamos consumiendo los endpoints del backend subido.
+>eN EL FRONT SE CONSUMEN LOS ENDPOINTS
 >
 > Se pueden realizar las siguientes acciones
 
